@@ -1,0 +1,3 @@
+broker_url: {KAFKA_BROKER_URL}
+broker_usernmae: {KAFKA_BROKER_USER_NAME}
+broker_password: {{KAFKA_BROKER_PASSWORD}}
